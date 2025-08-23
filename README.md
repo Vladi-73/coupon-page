@@ -6,4 +6,4 @@ This repository contains a one-page website created for a company promotion.
 * **Right side:** Interactive map with the location of the enterprise.
 
 ## How to view?
-The finished page is available at the link: [Open site](https://your-login.github.io/repository-name/)
+The finished page is available at the link: [Open site]( https://vladi-73.github.io/coupon-page/)
